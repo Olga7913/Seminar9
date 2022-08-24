@@ -1,0 +1,15 @@
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\bin\Debug\net6.0\Task64.exe
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\bin\Debug\net6.0\Task64.deps.json
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\bin\Debug\net6.0\Task64.dll
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\bin\Debug\net6.0\Task64.pdb
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.dll
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\refint\Task64.dll
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.pdb
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+D:\Обучение\Git\HW_24.08.2022(3)\HW\Task64\obj\Debug\net6.0\ref\Task64.dll
